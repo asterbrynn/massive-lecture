@@ -1,0 +1,1 @@
+select * from airplane where plane_id = $1;

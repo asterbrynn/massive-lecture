@@ -1,0 +1,1 @@
+select * from airplane where passenger_count = $1;
